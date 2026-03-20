@@ -34,3 +34,11 @@ Build a machine learning model to predict house prices based on features like sq
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+## 📸 Project Screenshots
+
+### 🔹 Correlation Heatmap
+![Heatmap](heatmap.png)
+
+### 🔹 Model Results
+![Results](result.png)
